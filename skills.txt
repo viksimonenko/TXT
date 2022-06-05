@@ -1,0 +1,16 @@
+Skills for learning:
+ API testing: Postman,
+ Web traffic sniffing (including mobile): Charles, Fiddler,
+ Dev Tools: Google Chrome, FireFox,
+ ExternalServer": "Logs reading",
+ Mobile testing": Android Studio, ADB,
+ Building iOS Apps with Xcode,
+ Building Android Apps with Android Studio,
+ Proxy and vpn set on iOS and Android,
+ Command line (terminal) Linux : copying, creating, viewing, moving files on servers without a graphical interface,
+ Bash scripring basics,
+ Access to remote servers,
+ SQL basics: Create, Delete, Drop, Insert Into, Select, From, Where, Join,
+ DB: Postgres, Redis,
+ Load testing": Jmeter,
+ Scrum Development Methodology.
